@@ -11,11 +11,11 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 ### Worked with:
 
 - ***Code/Practice:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `Algorithm`, `C# Expressions`, `C# async/await`, `C++`, `JS`, `TS`, `TS callback/async-await`, `Matlab/Simulink`, `REST API`.
-- ***Desktop App:*** `.Net/Core` `WPF` `Prism` `Material Design In XAML Toolkit` `Unity Container` `AvalonDock` `WIX` `XML` `MvvmLightLibs` `Modular architecture`
-- ***Web/Backend:*** `ASP .Net/Core Web API` `ASP .Net Core MVC` `Ninject` `Autofac` `NodeJs/Express` `Swagger` `ts-jest` `NUnit` `Onion Architecture` `layerArchitecture`
-- ***Web/Frontend:*** `HTML` `CSS` `LESS` `AJAX` `React/Flux` `WebPack` `Babel` `Angular`
-- ***Database*** `EF6` `EF Core` `Type-ORM (nodeJs)` `MS SQL` `PostgreSQL`
-- ***Project/Solution management*** `TFS` `Azure` `Azure DevOps` `Git` `Docker`
+- ***Desktop App:*** `.Net/Core`, `WPF`, `Prism`, `Material Design In XAML Toolkit`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
+- ***Web/Backend:*** `ASP .Net/Core Web API`, `ASP .Net Core MVC`, `Ninject`, `Autofac`, `NodeJs/Express`, `Swagger`, `ts-jest`, `NUnit`, `Onion Architecture`, `layerArchitecture`.
+- ***Web/Frontend:*** `HTML`, `CSS`, `LESS`, `AJAX`, `React/Flux`, `WebPack`, `Babel`, `Angular`.
+- ***Database*** `EF6`, `EF Core`, `Type-ORM (nodeJs)`, `MS SQL`, `PostgreSQL`.
+- ***Project/Solution management*** `TFS`, `Azure`, `Azure DevOps`, `Git`, `Docker`.
 
 
 ### Education and training:
