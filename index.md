@@ -1,0 +1,57 @@
+## ABOUT ME
+
+From june 2018 to present, I develop and maintain an industrial desktop application deal with IEC 61850 standard, MMS, FTP protocols and XML files based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI in [BEMN company](http://bemn.by/). From december 2018 to the present I am fully responsible for the development and support of this project. 
+
+From february 2019 to august 2019 I successfully finished EPAM internship in .NET lab. In time internship I took part in internal project "Code verification platform" with stack typescript/express/nodejs. This project was an API that took code from GitHub or Azure DevOps repositories built that code, runs the tests in [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1) pipeline and returned results of this. In time of internship I was one of the best students. 
+
+From september 2019 to present, I develop firmware for C28xx controller chip (processor of Texas Instruments) on C++. Logic this firmware to target to protect against damage networks of electrified railway. My role in this to develop of applied part and refactor of existing code.
+
+From july 2016 to present, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
+
+From January 2016 to present, I am a research associate in BNTU energy department. I have a master of engineering degree.
+
+I am actively engaged in scientific activities. My inventions use for digital relay protection which are operated in the Belarusian power system.
+
+I try don't waste my time and constantly improve myself. I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
+
+### Education and training:
+
+- **2012-2017 Electrical engineer.** Belarusian National Technical University, energy department, Minsk (Belarus).
+- **2017-2019 Master of technical sciences.** Belarusian National Technical University, energy department, Minsk (Belarus).
+- **2017-2019 courses for .Net developer.** Different courses on ITVDN portal.
+- **02/2019-08/2019 EPAM Student.** Internship in EPAM company.
+- **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal.
+- and so on.
+
+### Achievements:
+
+> - Responsible for the development and support of the desktop application.
+> - Laureate of the [XXVI Republican competition of students scientific papers in the category of Physical and technical problems of energy (p. 38)](http://www.sws.bsu.by/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%83%D0%B7%D0%B0%D0%BC-%D1%81%D0%B5%D0%BA%D1%86-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3(%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%8B_%D1%80%D1%83%D0%BA%D0%BE%D0%B2_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf).
+> - Have the third rank on [CodeWars](https://www.codewars.com/users/VladKachenya/completed_solutions).
+> - Member of [Scopus database](https://www.scopus.com/authid/detail.uri?authorId=57199259310). I have four publications in the ["Energy"](https://energy.bntu.by/jour/search/search) magazine and one publication in the ["Sigma-not"](http://www.sigma-not.pl/publikacja-114651-digital-filters-to-separate-the-first-and-second-harmonics-of-signals-in-microprocessor-bases-protection-of-electrical-installations-equipped-with-transformers-przeglad-elektrotechniczny-2018-7.html) magazine. 
+> - Got patents for novel approaches to [determine the type of fault in networks 6 - 35 kv](https://www.eapo.org/ru/search.html?search_string=%D0%9A%D0%B0%D1%87%D0%B5%D0%BD%D1%8F).
+
+
+### My interests:
+
+- **Solving programming tasks.**
+- **Writing scientific articles.** I'm engaged in scientific activity and I'm going to enter graduate school.
+- **Mathematical modeling of processes in electric power systems.** For it I use Matlab and Mathlab Simulink. Here I model the transient phenomena and algorithms of relay protection.
+- **Sport.** I go to the gym more then for 4 years.
+
+### Other things:
+
+> - I regularly speak publicly at events of different levels from marketing presentations to scientific conferences.
+> - Have touch typing skill in English and Russian. Training took place in the off-line program [solo on the keyboard](https://ergosolo.ru).
+> - [Member of Microsoft learn](https://techprofile.microsoft.com/en-gb/VladKachenya)
+> - Candidate master of sports in Boxing. I was a member of the Belarusian youth Boxing team (2010 - 2012).
+> - Third category of swimming.
+
+### Code examples
+-  [Jira integration api (nodejs/express/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-api)
+-  [Jira integration web client (React/Flux/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-web)
+-  [Goods store (ASP .Net CORE)](https://github.com/VladKachenya/GoodsStore.git)
+-  [Maze (.Net CORE)](https://github.com/VladKachenya/Maze.git)
+-  [Expression filter (.Net CORE)](https://github.com/VladKachenya/Expressions.git)
+-  [Tic-tac-toe game (.Net WPF/MvvmLightLibs)](https://github.com/VladKachenya/TicTacToe)
+-  [Bethanys pie shop (ASP .Net CORE)](https://github.com/VladKachenya/BethanysPieShop)

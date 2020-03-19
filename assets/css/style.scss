@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+* { 
+  font-family: Helvetica; 
+}
+
+a:hover, a:focus{
+    text-decoration: underline;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+}
+
+header p {
+    margin: 0 0 5px;
+}
+
+header h1 a:hover, header h1 a:visited {
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.wrapper footer p small{
+    display: none;
+}
