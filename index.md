@@ -35,7 +35,7 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 ### Other things:
 
 > - Regularly speak publicly at events of different levels from marketing presentations to scientific conferences.
-> - Have touch typing skill in English and Russian. Training took place in the off-line program [solo on the keyboard](https://ergosolo.ru).
+> - Have touch typing skill in English and Russian.
 > - [Member of Microsoft learn](https://techprofile.microsoft.com/en-gb/VladKachenya)
 > - Candidate master of sports in Boxing. I was a member of the Belarusian youth Boxing team (2010 - 2012).
 > - Third category of swimming.
