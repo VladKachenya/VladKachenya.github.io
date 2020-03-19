@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-From june 2018 to present, developer of industrial .Net/WPF application deal with IEC 61850 standard, MMS, FTP protocols and XML files based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. From december 2018 to the present, lead developer of this project. 
+From june 2018 to present, developer of industrial .Net/WPF app deal with IEC 61850 standard, MMS, FTP protocols and XML files. The app is based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. From december 2018 to the present, lead developer of this project. 
 
 From february 2019 to august 2019 I successfully finished EPAM internship in .NET lab. In time internship, took part in internal project "Code verification platform" with stack typescript/express/nodejs. In time of internship I was one of the best students. 
 
