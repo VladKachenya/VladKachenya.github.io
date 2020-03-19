@@ -14,8 +14,8 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 - **2017-2019 Master of technical sciences.** Belarusian National Technical University, energy department, Minsk (Belarus).
 - **2017-2019 courses for .Net developer.** Different courses on ITVDN portal.
 - **02/2019-08/2019 EPAM Student.** Internship in EPAM company.
-- **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal.
-I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
+- **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal. 
+- I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
 
 ### Achievements:
 
