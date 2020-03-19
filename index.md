@@ -1,18 +1,14 @@
 ## ABOUT ME
 
-From june 2018 to present, I develop and maintain an industrial desktop application deal with IEC 61850 standard, MMS, FTP protocols and XML files based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI in [BEMN company](http://bemn.by/). From december 2018 to the present I am fully responsible for the development and support of this project. 
+From june 2018 to present, developer of industrial .Net/WPF application deal with IEC 61850 standard, MMS, FTP protocols and XML files based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. From december 2018 to the present, lead developer of this project. 
 
-From february 2019 to august 2019 I successfully finished EPAM internship in .NET lab. In time internship I took part in internal project "Code verification platform" with stack typescript/express/nodejs. This project was an API that took code from GitHub or Azure DevOps repositories built that code, runs the tests in [Azure DevOps](https://docs.microsoft.com/en-us/rest/api/azure/devops/?view=azure-devops-rest-5.1) pipeline and returned results of this. In time of internship I was one of the best students. 
+From february 2019 to august 2019 I successfully finished EPAM internship in .NET lab. In time internship, took part in internal project "Code verification platform" with stack typescript/express/nodejs. In time of internship I was one of the best students. 
 
-From september 2019 to present, I develop firmware for C28xx controller chip (processor of Texas Instruments) on C++. Logic this firmware to target to protect against damage networks of electrified railway. My role in this to develop of applied part and refactor of existing code.
+From september 2019 to present, developer firmware for C28xx controller chip (processor of Texas Instruments) on C++. Logic this firmware to target to protect against damage networks of electrified railway. My role in this to develop of applied part and refactor of existing code.
 
-From july 2016 to present, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
+From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
 
 From January 2016 to present, I am a research associate in BNTU energy department. I have a master of engineering degree.
-
-I am actively engaged in scientific activities. My inventions use for digital relay protection which are operated in the Belarusian power system.
-
-I try don't waste my time and constantly improve myself. I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
 
 ### Education and training:
 
@@ -21,7 +17,7 @@ I try don't waste my time and constantly improve myself. I regular take differen
 - **2017-2019 courses for .Net developer.** Different courses on ITVDN portal.
 - **02/2019-08/2019 EPAM Student.** Internship in EPAM company.
 - **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal.
-- and so on.
+I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
 
 ### Achievements:
 
@@ -35,12 +31,12 @@ I try don't waste my time and constantly improve myself. I regular take differen
 
 - **Solving programming tasks.**
 - **Writing scientific articles.** I'm engaged in scientific activity and I'm going to enter graduate school.
-- **Mathematical modeling of processes in electric power systems.** For it I use Matlab and Mathlab Simulink. Here I model the transient phenomena and algorithms of relay protection.
-- **Sport.** I go to the gym more then for 4 years.
+- **Mathematical modeling of processes in electric power systems.** (Matlab and Mathlab Simulink)
+- **Sport.** I go to the gym more then for 5 years.
 
 ### Other things:
 
-> - I regularly speak publicly at events of different levels from marketing presentations to scientific conferences.
+> - Regularly speak publicly at events of different levels from marketing presentations to scientific conferences.
 > - Have touch typing skill in English and Russian. Training took place in the off-line program [solo on the keyboard](https://ergosolo.ru).
 > - [Member of Microsoft learn](https://techprofile.microsoft.com/en-gb/VladKachenya)
 > - Candidate master of sports in Boxing. I was a member of the Belarusian youth Boxing team (2010 - 2012).
