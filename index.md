@@ -1,16 +1,16 @@
 ## ABOUT ME
 
-From june 2018 to present, developer of industrial .Net/WPF app deal with IEC 61850 standard, MMS, FTP protocols and XML files. The app is based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. From december 2018 to present, lead developer of this project. 
+**From june 2018 to present**, developer of industrial .Net/WPF app deal with IEC 61850 standard, MMS, FTP protocols and XML files. The app is based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. From december 2018 to present, lead developer of this project. 
 
-From february 2019 to august 2019, successfully finished EPAM internship in .NET lab. In time internship, took part in internal project "Code verification platform" with stack typescript/express/nodejs. I was one of the best students.
+**From february 2019 to august 2019**, successfully finished EPAM internship in .NET lab. In time internship, took part in internal project "Code verification platform" with stack typescript/express/nodejs. I was one of the best students.
 
-From september 2019 to present, developer firmware for C28xx controller chip (processor of Texas Instruments) on C++. The logic of this is protect against damage networks of electrified railway. My role is to develop the applied part and refactoring existing code.
+**From september 2019 to present**, developer firmware for C28xx controller chip (processor of Texas Instruments) on C++. The logic of this is protect against damage networks of electrified railway. My role is to develop the applied part and refactoring existing code.
 
 From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
 
 ### Worked with:
-- ***Code/Practice:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `Algorithm`, `C# Expressions`, `C# async/await`, `C++`, `JS`, `TS`, `TS callback/async-await`, `Matlab/Simulink`, `REST API`.
-- ***Desktop App:*** `.Net/Core`, `WPF`, `Prism`, `Material Design In XAML Toolkit`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
+- ***Code/Practices:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `REST API`, `Algorithms`, `C# Expressions`, `C# async/await`, `C++`, `JS`, `TS`, `TS callback/async-await`, `Matlab/Simulink`.
+- ***Desktop App:*** `.Net/Core`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
 - ***Web/Backend:*** `ASP .Net/Core Web API`, `ASP .Net Core MVC`, `Ninject`, `Autofac`, `NodeJs/Express`, `Swagger`, `ts-jest`, `NUnit`, `Onion Architecture`, `layerArchitecture`.
 - ***Web/Frontend:*** `HTML`, `CSS`, `LESS`, `AJAX`, `React/Flux`, `WebPack`, `Babel`, `Angular`.
 - ***Database:*** `EF6`, `EF Core`, `Type-ORM (nodeJs)`, `MS SQL`, `PostgreSQL`.
