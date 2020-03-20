@@ -9,12 +9,12 @@
 From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
 
 ### Worked with:
-- ***Code/Practices:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `REST API`, `Algorithms`, `C# Expressions`, `C# async/await`, `C++`, `JS`, `TS`, `TS callback/async-await`, `Matlab/Simulink`.
+- ***Code/Practices:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `REST API`, `Algorithms`, `C# Expressions`, `C# async/await`, `JS`, `TS`, `TS callback/async-await`, `C++`, `Matlab/Simulink`.
 - ***Desktop App:*** `.Net/Core`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
 - ***Web/Backend:*** `ASP .Net/Core Web API`, `ASP .Net Core MVC`, `Ninject`, `Autofac`, `NodeJs/Express`, `Swagger`, `ts-jest`, `NUnit`, `Onion Architecture`, `layerArchitecture`.
 - ***Web/Frontend:*** `HTML`, `CSS`, `LESS`, `AJAX`, `React/Flux`, `WebPack`, `Babel`, `Angular`.
 - ***Database:*** `EF6`, `EF Core`, `Type-ORM (nodeJs)`, `MS SQL`, `PostgreSQL`.
-- ***Project/Solution management:*** `TFS`, `Azure`, `Azure DevOps`, `Git`, `Docker`.
+- ***Project/Solution management:*** `TFS`, `Git`, `Azure`, `Azure DevOps`, `Docker`.
 
 
 ### Education and training:
