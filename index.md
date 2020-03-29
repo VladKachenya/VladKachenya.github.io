@@ -11,12 +11,12 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 Have **A2/B1** English level but **ready to up it to B2/C1** during six months.
 
 ### Worked with:
-- ***Code/Practices:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `REST API`, `Algorithms`, `C# Expressions`, `C# async/await`, `JS`, `TS`, `TS callback/async-await`, `C++`, `Matlab/Simulink`.
-- ***Desktop App:*** `.Net/Core`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
-- ***Web/Backend:*** `ASP .Net/Core Web API`, `ASP .Net Core MVC`, `Ninject`, `Autofac`, `NodeJs/Express`, `Swagger`, `ts-jest`, `NUnit`, `Onion Architecture`, `layer Architecture`.
+- ***Code/Practices:*** `OOP`, `Desigin Paterns (GoF)`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS`, `TS`, `C++`, `Matlab/Simulink`.
+- ***Desktop App:*** `.Net Framework/Core`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
+- ***Web/Backend:*** `ASP .Net Framework/Core`, `Ninject`, `Autofac`, `NodeJs/Express`, `Swagger`, `Onion Architecture`, `layer Architecture`.
 - ***Web/Frontend:*** `HTML`, `CSS`, `LESS`, `AJAX`, `React/Flux`, `Angular`, `Webpack`, `Babel`.
-- ***Database:*** `EF6`, `EF Core`, `Type-ORM (nodeJs)`, `MS SQL`, `PostgreSQL`.
-- ***Project/Solution management:*** `TFS`, `Git`, `Azure`, `Azure DevOps`, `Docker`.
+- ***Database:*** `EF`, `Type-ORM (nodeJs)`.
+- ***Project/Solution management:*** `Azure DevOps`, `Git`, `Azure`, `Docker`.
 
 
 ### Education and training:
