@@ -6,7 +6,7 @@
 
 From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in BEMN company (Minsk). My duties include: development of algorithms, research of physical processes, preparation of technical specifications, writing technical documentation (in Russian), selection of tender equipment, communication with customers, technical support, manual testing of software of various levels (desktop applications and devices firmwares) and so on.
 
-Have **A2/B1** English level but **ready to up it to B2/C1** during six months.
+Have **B1** English level but **ready to up it to B2/C1** during six months.
 
 ### Worked with:
 - ***Code/Practices:*** `OOP`, `Desigin Paterns`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS/TS (basic)`.
