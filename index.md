@@ -10,8 +10,8 @@ Have **B1** English level but **ready to up it to B2/C1** during six months.
 
 ### Worked with:
 - ***Code/Practices:*** `OOP`, `Desigin Paterns`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS/TS (basic)`.
-- ***Desktop App:*** `.Net Framework/Core`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
-- ***Web/Backend (basic):*** `ASP .Net Framework/Core`, `Autofac`, `NodeJs/Express`, `Swagger`.
+- ***Desktop App:*** `.Net`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
+- ***Web/Backend (basic):*** `ASP .Net`, `Autofac`, `NodeJs/Express`, `Swagger`.
 - ***Web/Frontend (basic):*** `HTML`, `CSS`, `LESS`, `AJAX`, `React/Flux`, `Angular`, `Webpack`, `Babel`.
 - ***Database (basic):*** `EF`, `Type-ORM (nodeJs)`.
 - ***Project/Solution management:*** `Azure DevOps`, `Git`, `Azure`, `Docker`.
