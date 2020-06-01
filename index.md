@@ -50,6 +50,7 @@ Have **A2/B1** English level but **ready to up it to B2/C1** during six months.
 > - Third category of swimming.
 
 ### Code examples
+-  [WeatherForecast (.Net/WPF/WCF/Dapper/MySql)](https://github.com/VladKachenya/WeatherForecast)
 -  [Jira integration api (nodejs/express/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-api)
 -  [Jira integration web client (React/Flux/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-web)
 -  [Goods store (ASP .Net CORE)](https://github.com/VladKachenya/GoodsStore.git)
