@@ -9,10 +9,10 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 Have **A2/B1** English level.
 
 ### Worked with:
-- ***Code/Practices:*** `OOP`, `Desigin Paterns`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS/TS (basic)`.
+- ***Code/Practices:*** `Desigin Paterns`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS/TS (basic)`.
 - ***Desktop App:*** `.Net`, `WPF`, `Prism`, `Material Design In XAML`, `Unity Container`, `AvalonDock`, `WIX`, `XML`, `MvvmLightLibs`, `Modular architecture`.
-- ***Web/Backend (basic):*** `ASP .Net`, `Autofac`, `NodeJs/Express`, `Swagger`.
-- ***Web/Frontend (basic):*** `HTML`, `CSS`, `React/Flux`, `Webpack`, `Babel`.
+- ***Web/Backend (basic):*** `ASP .Net`, `Autofac`, `NodeJs/Express`.
+- ***Web/Frontend (basic):*** `HTML`, `CSS`, `React/Flux`.
 - ***Database (basic):*** `EF`, `Type-ORM (nodeJs)`.
 - ***Project/Solution management:*** `Azure DevOps`, `Git`, `Azure`, `Docker`.
 
