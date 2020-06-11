@@ -28,10 +28,9 @@ Have **A2/B1** English level.
 
 ### My interests:
 
-- Solving programming tasks.
-- Writing scientific articles. I'm engaged in scientific activity and I'm going to enter graduate school.
-- Mathematical modeling of processes in electric power systems.** (Matlab and Mathlab Simulink)
-- Sport. I go to the gym more then for 5 years.
+- Solving tasks and problems
+- Research activity (regardless of the field of activity)
+- Play sport
 
 ### Other things:
 
@@ -41,3 +40,4 @@ Have **A2/B1** English level.
 > - Have touch typing skill in English and Russian.
 > - Candidate master of sports in Boxing. I was a member of the Belarusian youth Boxing team (2010 - 2012).
 > - Third category of swimming.
+> - Regularly visit the gym
