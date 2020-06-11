@@ -1,6 +1,6 @@
 ## .NET DEVELOPER
 
-## CAREER:
+## CAREER
 **From june 2018 to present**, developer of industrial .Net/WPF in [BEMN](http://www.bemn.by) company (Minsk). The app is based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. **From december 2018 to present**, lead developer of this project. 
 
 **From february 2019 to august 2019**, successfully finished EPAM internship in .NET lab. In time internship, took part in internal project with stack typescript/express/nodejs.
@@ -8,7 +8,6 @@
 From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 ### Skills:
-- ***English level:*** `A2/B1`
 - ***Code/Practices:*** `Desigin Paterns`, `SOLID`, `REST API`, `C#`, `JS/TS (basic)`
 - ***Desktop App:*** `WPF`, `Prism`, `Material Design`, `AvalonDock`, `WIX`, `Modular architecture`
 - ***Web/Backend (basic):*** `ASP .Net`, `NodeJs/Express`
