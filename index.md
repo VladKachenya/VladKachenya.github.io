@@ -1,6 +1,6 @@
 ## .NET DEVELOPER
 
-## CAREER
+## Career:
 **From june 2018 to present**, developer of industrial .Net/WPF in [BEMN](http://www.bemn.by) company (Minsk). The app is based on [Prism library](http://prismlibrary.github.io/) and [Material Design](http://materialdesigninxaml.net/) UI. **From december 2018 to present**, lead developer of this project. 
 
 **From february 2019 to august 2019**, successfully finished EPAM internship in .NET lab. In time internship, took part in internal project with stack typescript/express/nodejs.
@@ -16,13 +16,12 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 - ***Project/Solution management:*** `Azure DevOps`, `Git`, `Docker`
 
 ### Education:
-> - **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal
+> - **04/2019-06/2019 courses for ASP .Net developer.** Courses on Pluralsight portal
 > - **02/2019-08/2019 EPAM Student.** Internship in EPAM company
-> - **2017-2019 courses for .Net developer.** Different courses on ITVDN portal
-> - **2017-2019 courses for .Net developer.** Different courses on ITVDN portal
+> - **2017-2019 courses for .Net developer.** Courses on ITVDN portal
 > - **2017-2019 Master of technical sciences.** Belarusian National Technical University, energy department, Minsk (Belarus)
 > - **2012-2017 Electrical engineer.** Belarusian National Technical University, energy department, Minsk (Belarus)
-> - Regular take different courses on Udemy, Pluralsight, ITVDN and so on
+> - Regular take different courses on Udemy, Pluralsight, ITVDN etc.
 
 ### Interests:
 
