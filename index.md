@@ -17,13 +17,13 @@ Have **A2/B1** English level.
 - ***Project/Solution management:*** `Azure DevOps`, `Git`, `Azure`, `Docker`.
 
 ### Education and training:
-
-- **2012-2017 Electrical engineer.** Belarusian National Technical University, energy department, Minsk (Belarus).
-- **2017-2019 Master of technical sciences.** Belarusian National Technical University, energy department, Minsk (Belarus).
-- **2017-2019 courses for .Net developer.** Different courses on ITVDN portal.
-- **02/2019-08/2019 EPAM Student.** Internship in EPAM company.
-- **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal. 
-- I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
+ 
+> - **2012-2017 Electrical engineer.** Belarusian National Technical University, energy department, Minsk (Belarus).
+> - **2017-2019 Master of technical sciences.** Belarusian National Technical University, energy department, Minsk (Belarus).
+> - **2017-2019 courses for .Net developer.** Different courses on ITVDN portal.
+> - **02/2019-08/2019 EPAM Student.** Internship in EPAM company.
+> - **04/2019-06/2019 courses for ASP .Net developer.** Different courses on Pluralsight portal. 
+> - I regular take different courses on Udemy, Pluralsight, ITVDN and so on.
 
 ### My interests:
 
