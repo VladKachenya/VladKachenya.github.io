@@ -27,10 +27,10 @@ Have **A2/B1** English level.
 
 ### My interests:
 
-- **Solving programming tasks.**
-- **Writing scientific articles.** I'm engaged in scientific activity and I'm going to enter graduate school.
-- **Mathematical modeling of processes in electric power systems.** (Matlab and Mathlab Simulink)
-- **Sport.** I go to the gym more then for 5 years.
+- Solving programming tasks.
+- Writing scientific articles. I'm engaged in scientific activity and I'm going to enter graduate school.
+- Mathematical modeling of processes in electric power systems.** (Matlab and Mathlab Simulink)
+- Sport. I go to the gym more then for 5 years.
 
 ### Other things:
 
@@ -42,13 +42,3 @@ Have **A2/B1** English level.
 > - Have touch typing skill in English and Russian.
 > - Candidate master of sports in Boxing. I was a member of the Belarusian youth Boxing team (2010 - 2012).
 > - Third category of swimming.
-
-### Code examples
--  [WeatherForecast (.Net/WPF/WCF/Dapper/MySql)](https://github.com/VladKachenya/WeatherForecast)
--  [Jira integration api (nodejs/express/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-api)
--  [Jira integration web client (React/Flux/TypeScript/docker)](https://github.com/VladKachenya/tp-jira-integration-web)
--  [Goods store (ASP .Net CORE)](https://github.com/VladKachenya/GoodsStore.git)
--  [Maze (.Net CORE)](https://github.com/VladKachenya/Maze.git)
--  [Expression filter (.Net CORE)](https://github.com/VladKachenya/Expressions.git)
--  [Tic-tac-toe game (.Net WPF/MvvmLightLibs)](https://github.com/VladKachenya/TicTacToe)
--  [Bethanys pie shop (ASP .Net CORE)](https://github.com/VladKachenya/BethanysPieShop)
