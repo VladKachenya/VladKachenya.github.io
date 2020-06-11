@@ -10,7 +10,7 @@ Have **A2/B1** English level.
 
 ### Worked with:
 - ***Code/Practices:*** `Desigin Paterns`, `SOLID`, `REST API`, `Algorithms`, `C#`, `JS/TS (basic)`.
-- ***Desktop App:*** `.Net`, `WPF`, `Prism`, `Material Design In XAML`, `AvalonDock`, `WIX`, `Modular architecture`.
+- ***Desktop App:*** `WPF`, `Prism`, `Material Design In XAML`, `AvalonDock`, `WIX`, `Modular architecture`.
 - ***Web/Backend (basic):*** `ASP .Net`, `Autofac`, `NodeJs/Express`.
 - ***Web/Frontend (basic):*** `HTML`, `CSS`, `React/Flux`.
 - ***Database (basic):*** `EF`, `Type-ORM (nodeJs)`.
