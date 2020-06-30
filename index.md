@@ -27,7 +27,7 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 
 - Solving tasks and problems
 - Research activity (regardless of the field of activity)
-- Play sport
+- Engage in sports
 
 ### Other things:
 > - Have [second rank on CodeWars](https://www.codewars.com/users/VladKachenya). ![My Codewarrior Profile Badge](https://www.codewars.com/users/VladKachenya/badges/small)
