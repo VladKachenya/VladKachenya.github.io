@@ -10,9 +10,9 @@ From july 2016, I'm a R&D engineer of [digital relay protection](https://en.wiki
 ### Skills:
 - ***Code/Practices:*** `Desigin Paterns`, `SOLID`, `REST API`, `C#`, `JS/TS (basic)`
 - ***Desktop App:*** `WPF`, `Prism`, `Material Design`, `AvalonDock`, `WIX`, `Modular architecture`
-- ***Web/Backend (basic):*** `ASP .Net`, `NodeJs/Express`
+- ***Web/Backend:*** `ASP .Net`, `NodeJs/Express(basic)`
 - ***Web/Frontend (basic):*** `HTML`, `CSS`, `React`
-- ***Database (basic):*** `EF`, `Type-ORM (nodeJs)`
+- ***Database:*** `EF`, `Type-ORM (nodeJs)`, `MongoDb`
 - ***Project/Solution management:*** `Azure DevOps`, `Git`, `Docker`
 
 ### Education:
