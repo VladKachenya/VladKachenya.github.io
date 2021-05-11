@@ -24,7 +24,7 @@
 
 ### Interests:
 - Solving tasks and problems
-- Research activity (regardless of the field of activity)
+- Research activity
 - Keen on sports
 
 ### Other things:
