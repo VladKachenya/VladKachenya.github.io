@@ -2,11 +2,11 @@
 
 ## Career:
 
-**07/2020 - now**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - .net Framework/Core, WCF, ASP, MongoDb, RabbitMq, Teamcity and Gitlab CI/CD, Docker, Kubernetes, Kibana, Graphana e.c.
+**07/2020 - present**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - `.Net Framework/Core`, `WCF`, `ASP .net Core Api`, `MongoDb`, `RabbitMq`, `Teamcity and Gitlab CI/CD`, `Docker`, `Kubernetes`, `Kibana`, `Graphana`, `Gitlab` e.c.
 
-**06/2018 - 07/2020**, developer of industrial .Net/WPF app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - [Prism library](http://prismlibrary.github.io/), [Material Design](http://materialdesigninxaml.net/), MMS, Modbus, FTP protocls, TFS, e.c.
+**06/2018 - 07/2020**, developer of industrial `.Net/WPF` app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `[Prism library](http://prismlibrary.github.io/)`, `[Material Design](http://materialdesigninxaml.net/)`, `MMS, Modbus, FTP protocls`, `TFS`, e.c.
 
-**02/2019 - 08/2019**, internship in EPAM .NET lab. Took part in internal project with stack typescript/express/nodejs.
+**02/2019 - 08/2019**, internship in EPAM .NET lab. Took part in internal project with stack `typescript` `express` `nodejs`.
 
 **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
@@ -15,11 +15,11 @@
 - ***Web/Frontend (non-commercial):*** `HTML`, `CSS`, `React`
 
 ### Education:
-> - **02/2019-08/2019 EPAM Student.** Internship in EPAM company
+> - **02/2019-08/2019 EPAM.** Internship in EPAM company
 > - **2017-2019 Master of technical sciences.** Belarusian National Technical University, Minsk (Belarus)
 > - **2012-2017 Electrical engineer.** Belarusian National Technical University, Minsk (Belarus)
 
-### A few words about me
+### About me
 - Do not afraid of difficulties, new and old technologies
 
 ### Interests:
