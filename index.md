@@ -4,7 +4,7 @@
 
 **07/2020 - present**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - `.Net Framework/Core`, `WCF`, `ASP .net Core Api`, `MongoDb`, `RabbitMq`, `Teamcity and Gitlab CI/CD`, `Docker`, `Kubernetes`, `Kibana`, `Graphana`, `Gitlab` e.c.
 
-**06/2018 - 07/2020**, developer of industrial `.Net/WPF` app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `[Prism library](http://prismlibrary.github.io/)`, `[Material Design](http://materialdesigninxaml.net/)`, `MMS, Modbus, FTP protocls`, `TFS`, e.c.
+**06/2018 - 07/2020**, developer of industrial `.Net/WPF` app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `Prism library`, `Material Design`, `MMS, Modbus, TCP and FTP protocls`, `TFS`, e.c.
 
 **02/2019 - 08/2019**, internship in EPAM .NET lab. Took part in internal project with stack `typescript` `express` `nodejs`.
 
@@ -29,6 +29,6 @@
 
 ### Other things:
 > - [Second rank on CodeWars](https://www.codewars.com/users/VladKachenya). ![My Codewarrior Profile Badge](https://www.codewars.com/users/VladKachenya/badges/small)
-> - Laureate of [the Republican competition](http://www.sws.bsu.by/%D0%A0%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%D1%8B%20%D0%BF%D0%BE%20%D0%B2%D1%83%D0%B7%D0%B0%D0%BC-%D1%81%D0%B5%D0%BA%D1%86-%D0%BA%D0%B0%D1%82%D0%B5%D0%B3(%D0%B0%D0%B2%D1%82%D0%BE%D1%80%D1%8B_%D1%80%D1%83%D0%BA%D0%BE%D0%B2_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0)%D0%B4%D0%BB%D1%8F%20%D1%81%D0%B0%D0%B9%D1%82%D0%B0.pdf), author of [five articles](https://www.scopus.com/authid/detail.uri?authorId=57199259310) 
+> - Laureate of the Belarusian Republican competition of 2019 in section "Physical and technical problems of power engineering", author of [five articles](https://www.scopus.com/authid/detail.uri?authorId=57199259310) 
 > - Inventor of [two patents](https://www.eapo.org/ru/search.html?search_string=%D0%9A%D0%B0%D1%87%D0%B5%D0%BD%D1%8F) in Energy area
 > - Regularly speak publicly
