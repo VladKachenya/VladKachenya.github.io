@@ -26,6 +26,6 @@
 ### Other things:
 > - [Second rank on CodeWars](https://www.codewars.com/users/VladKachenya). ![My Codewarrior Profile Badge](https://www.codewars.com/users/VladKachenya/badges/small)
 > - Laureate of the Belarusian Republican competition of 2019 in section "Physical and technical problems of power engineering"
-> - Research activities (https://www.scopus.com/authid/detail.uri?authorId=57199259310) 
+> - [Research activity](https://www.scopus.com/authid/detail.uri?authorId=57199259310) 
 > - Inventor of [two patents](https://www.eapo.org/ru/search.html?search_string=%D0%9A%D0%B0%D1%87%D0%B5%D0%BD%D1%8F) in Energy area
 > - Regularly speak publicly
