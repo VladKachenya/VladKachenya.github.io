@@ -18,11 +18,6 @@
 ### About me
 - Do not afraid of difficulties, new and old technologies
 
-### Interests:
-- Solving tasks and problems
-- Research activity
-- Keen on sports
-
 ### Other things:
 > - [Second rank on CodeWars](https://www.codewars.com/users/VladKachenya). ![My Codewarrior Profile Badge](https://www.codewars.com/users/VladKachenya/badges/small)
 > - Laureate of the Belarusian Republican competition of 2019 in section "Physical and technical problems of power engineering"
