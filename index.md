@@ -7,7 +7,7 @@
 - **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 ### Other Skills:
-- ***Practices:*** `Desigin Paterns`, `SOLID`, `Modular, monolit, microservices, reactive architecturies`
+- ***Practices:*** `Desigin Paterns`, `SOLID`, `Monolit, microservices, architecturies`
 - ***Web/Frontend (non-commercial):*** `HTML`, `CSS`, `React`
 
 ### Education:
