@@ -2,7 +2,7 @@
 
 ## CAREER:
 - **07/2020 - present**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - `.Net Framework/Core`, `WCF`, `ASP.NET`, `MongoDb`, `RabbitMq`, `Teamcity/Gitlab CI/CD`, `Docker`, e.c.
-- **06/2018 - 07/2020**, developed industrial rich client desktop app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `.Net`, `WPF`, `Prism library`, `Material Design`, `MMS`, `Modbus`, `FTP`, `TFS`, e.c.
+- **06/2018 - 07/2020**, developed industrial rich client desktop app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `.Net`, `WPF`, `Prism-library`, `Material Design`, `MMS`, `Modbus`, `FTP`, `TFS`, e.c.
 - **02/2019 - 08/2019**, internship in EPAM .NET lab. Took part in internal project with stack `typescript`, `express`, `nodejs`.
 - **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
