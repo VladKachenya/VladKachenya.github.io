@@ -7,8 +7,8 @@ Do not afraid of difficulties, new and old technologies
 - **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 #### Other Skills:
-> - Commercial:`Desigin Paterns`, `SOLID`, `Monolit, microservices architecturies`
-> - Non-commercial: `SQL`, `EF`, `Node.js`, `HTML`, `CSS`, `React`
+- Commercial:`Desigin Paterns`, `SOLID`, `Monolit, microservices architecturies`
+- Non-commercial: `SQL`, `EF`, `Node.js`, `HTML`, `CSS`, `React`
 
 #### Education:
 > - **02/2019-08/2019 EPAM.** EPAM .NET lab. internship. Have been taking part in internal project for Azure pipeline
