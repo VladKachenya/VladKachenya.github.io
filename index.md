@@ -1,18 +1,21 @@
 ### .NET DEVELOPER
+Do not afraid of difficulties, new and old technologies
+
 ### Career:
 - **07/2020 - present**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - `.Net Framework/Core`, `WCF`, `ASP.NET`, `MongoDb`, `RabbitMq`, `Teamcity/Gitlab CI/CD`, `Docker`, e.c.
 - **06/2018 - 07/2020**, developed industrial rich client desktop app in [BEMN](http://www.bemn.by) company (Minsk). Technology stack - `.Net`, `WPF`, `Prism library`, `Material Design`, `MMS`, `Modbus`, `FTP`, `TFS`, e.c.
 - **02/2019 - 08/2019**, internship in EPAM .NET lab. Took part in internal project with stack `typescript`, `express`, `nodejs`.
 - **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
+- 
 ### Other Skills:
 - ***Practices:*** `Desigin Paterns`, `SOLID`, `Monolit, microservices, architecturies`
 - ***Web/Frontend (non-commercial):*** `HTML`, `CSS`, `React`
+
 ### Education:
 > - **02/2019-08/2019 EPAM.** Internship in EPAM company
 > - **2017-2019 Master of technical sciences.** Belarusian National Technical University, Minsk (Belarus)
 > - **2012-2017 Electrical engineer.** Belarusian National Technical University, Minsk (Belarus)
-### About me
-- Do not afraid of difficulties, new and old technologies
+
 ### Other things:
 > - [Second rank on CodeWars](https://www.codewars.com/users/VladKachenya). ![My Codewarrior Profile Badge](https://www.codewars.com/users/VladKachenya/badges/small)
 > - Laureate of the Belarusian Republican competition of 2019 in section "Physical and technical problems of power engineering"
