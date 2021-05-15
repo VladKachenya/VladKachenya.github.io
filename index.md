@@ -2,13 +2,13 @@
 Do not afraid of difficulties, new and old technologies
 
 #### Career:
-- **07/2020 - present**, backend .Net developer high-load system of [1Xbet line](https://1xbet.com/en/line/) resource. Technology stack - `.Net Framework/Core`, `WCF`, `ASP.NET`, `MongoDb`, `RabbitMq`, `Docker`, e.c.
-- **06/2018 - 07/2020**, developed industrial rich client desktop app in [BEMN](http://www.bemn.by). Technology stack - `.Net`, `WPF`, `Prism library`, `Material Design`, `MMS`, `Modbus`, `TFS`, e.c.
+- **07/2020 - present**, .Net backend developer of high-loaded system in [SoftCorp](https://softcorp.by/). `Framework`, `Standart`, `Core`, `WCF`, `ASP`, `MongoDb`, `RabbitMq`, `Docker` and huge stack other technologies.
+- **06/2018 - present, since 07/2020 part-time**, .Net desktop developer of industrial rich client desktop app in [BEMN](http://www.bemn.by). Technology stack - `WPF`, `Prism`, `Material-UI`, `TFS`, specific communication protocols e.c.
 - **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 #### Other Skills:
-- Commercial:`Desigin Paterns`, `SOLID`, `Monolit, microservices architecturies`
-- Non-commercial: `SQL`, `EF`, `Node.js`, `HTML`, `CSS`, `React`
+- Practise: `Desigin Paterns`, `SOLID`, `Microservices Arch.`, `Modular Arch.`, `MVVM`
+- Familiar with: `SQL`, `EF`, `MVC`, `SPA`, `HTML`, `CSS`, `React`, `Onion Arch.`, `Layer Arch.` 
 
 #### Education:
 > - **02/2019-08/2019 EPAM.** EPAM .NET lab. internship. Have been taking part in internal project for Azure pipeline
