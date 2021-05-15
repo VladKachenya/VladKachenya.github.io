@@ -7,7 +7,7 @@ I'm not afraid of difficulties, new and old technologies
 - **06/2016 - 06/2018**, an R&D algorithm developer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk). Matlab, C, C++ and other tools for research
 
 #### Other Skills:
-- Practise: `Desigin Paterns` `SOLID` `Microservices Arch.` `Modular Arch.` `Reactive arch.` `MVVM`
+- Practise: `Desigin Paterns` `SOLID` `Microservices Arch.` `Modular Arch.` `Reactive arch.` `MVVM` `Git` 
 - Familiar with: `SQL` `EF` `MVC` `SPA` `HTML` `CSS` `React` `Onion Arch.` `Layer Arch.` 
 
 #### Education:
