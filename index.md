@@ -3,7 +3,7 @@ I'm not afraid of difficulties, new and old technologies
 
 #### Career:
 - **07/2020 - present**, .Net backend developer of high-loaded systems in [SoftCorp](https://softcorp.by/). `Framework` `Standart` `Core` `WCF` `ASP` `MongoDb` `RabbitMq` `CI/CD` `Docker` and a wide stack other technologies.
-- **06/2018 - present, since 07/2020 part-time**, .Net desktop developer of industrial rich client desktop app in [BEMN](http://www.bemn.by). Technology stack - `WPF` `Prism` `Material-UI` `TFS` also specific communication protocols e.c.
+- **06/2018 - present, since 07/2020 part-time**, .Net desktop developer of industrial rich client app in [BEMN](http://www.bemn.by). Technology stack - `WPF` `Prism` `Material-UI` `TFS` also specific communication protocols e.c.
 - **06/2016 - 06/2018**, an R&D algorithm developer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 #### Other Skills:
