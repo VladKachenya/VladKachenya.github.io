@@ -1,14 +1,14 @@
 ### .NET DEVELOPER
-Do not afraid of difficulties, new and old technologies
+I'm not afraid of difficulties, new and old technologies
 
 #### Career:
-- **07/2020 - present**, .Net backend developer of high-loaded system in [SoftCorp](https://softcorp.by/). `Framework`, `Standart`, `Core`, `WCF`, `ASP`, `MongoDb`, `RabbitMq`, `Docker` and huge stack other technologies.
-- **06/2018 - present, since 07/2020 part-time**, .Net desktop developer of industrial rich client desktop app in [BEMN](http://www.bemn.by). Technology stack - `WPF`, `Prism`, `Material-UI`, `TFS`, specific communication protocols e.c.
-- **06/2016 - 06/2018**, an R&D engineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
+- **07/2020 - present**, .Net backend developer of high-loaded systems in [SoftCorp](https://softcorp.by/). `Framework` `Standart` `Core` `WCF` `ASP` `MongoDb` `RabbitMq` `CI/CD` `Docker` and a wide stack other technologies.
+- **06/2018 - present, since 07/2020 part-time**, .Net desktop developer of industrial rich client desktop app in [BEMN](http://www.bemn.by). Technology stack - `WPF` `Prism` `Material-UI` `TFS` also specific communication protocols e.c.
+- **06/2016 - 06/2018**, an R&D algorithm developer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by) company (Minsk).
 
 #### Other Skills:
-- Practise: `Desigin Paterns`, `SOLID`, `Microservices Arch.`, `Modular Arch.`, `MVVM`
-- Familiar with: `SQL`, `EF`, `MVC`, `SPA`, `HTML`, `CSS`, `React`, `Onion Arch.`, `Layer Arch.` 
+- Practise: `Desigin Paterns` `SOLID` `Microservices Arch.` `Modular Arch.` `Reactive arch.` `MVVM`
+- Familiar with: `SQL` `EF` `MVC` `SPA` `HTML` `CSS` `React` `Onion Arch.` `Layer Arch.` 
 
 #### Education:
 > - **02/2019-08/2019 EPAM.** EPAM .NET lab. internship. Have been taking part in internal project for Azure pipeline
