@@ -1,4 +1,4 @@
-### .NET DEVELOPER
+### .NET DEVELOPER/TEAM LEAD
 I'm not afraid of difficulties, new and old technologies
 
 #### Career:
