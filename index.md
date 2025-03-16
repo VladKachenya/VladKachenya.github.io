@@ -1,12 +1,12 @@
 ### .NET DEVELOPER/TEAM LEAD/ENGINEERING MANAGER
-I'm not afraid of difficulties, new and old technologies
+I embrace challenges and am always eager to learn, whether it's mastering new technologies, working with legacy systems, or refining my skills with existing tools.
 
 #### Career:
 - **07/2023 - present**, .Net Team Leader in [ControlUp](https://www.controlup.com/). Role - Team lead/Engineering manager.
 - **07/2021 - 07/2023**, .Net developer in [ControlUp](https://www.controlup.com/). Role - develop, Stack - `.NET Framework, Standart, Core` `WCF` `WinForms` `ASP` `Postress` `LDS` `Azure/Jenkins CI/CD` `Docker` e.c.
 - **07/2020 - 07/2021**, .Net backend developer of the [1Xbet](https://1xbet.by/en/) systems. Role - develop, support. Stack - `Framework` `Standart` `Core` `WCF` `ASP` `MongoDb` `RabbitMq` `CI/CD` `Docker` e.c.
 - **06/2018 - 07/2022, since 07/2020 part-time**, .Net desktop developer of industrial rich client app in [BEMN](http://www.bemn.by). Role - develop, support. Stack - `WPF` `Prism` `Material-UI` `TFS` e.c.
-- **06/2016 - 06/2018**, an R&D Ingineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by).
+- **06/2016 - 06/2018**, an R&D ingineer of [digital relay protection](https://en.wikipedia.org/wiki/Digital_protective_relay) in [BEMN](http://www.bemn.by).
 
 #### Education:
 > - **02/2019-08/2019 EPAM.** EPAM .NET lab. internship.
