@@ -4,7 +4,7 @@ layout: default
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px; margin-bottom: 30px; padding: 25px; border-radius: 12px; border: 1px solid rgba(0,0,0,0.1); background-color: rgba(0,0,0,0.02); box-shadow: 0 4px 15px rgba(0,0,0,0.05);" markdown="0">
 <div style="flex-shrink: 0; display: block; width: 180px; height: 180px; border-radius: 50%; border: 4px solid white; box-shadow: 0 4px 12px rgba(0,0,0,0.15); overflow: hidden; background-color: white;">
-<img src="{{ '/MyPhotoCompressed.jpg' | relative_url }}" alt="Vladislav Kachenya" style="width: 100%; height: 100%; object-fit: cover; display: block; border-radius: 50%;">
+<img src="{{ '/MyPhotoCompressed.jpg' | relative_url }}" alt="Vladislav Kachenya" style="width: 100%; height: 100%; object-fit: cover; object-position: center 20%; display: block; border-radius: 50%;">
 </div>
 <div style="flex: 1; min-width: 280px;">
 <h1 style="margin: 0 0 5px 0; border: none; padding: 0; font-size: 2.2em; color: #2c3e50;">Vladislav Kachenya</h1>

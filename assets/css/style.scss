@@ -2,8 +2,25 @@
 ---
 
 @import "{{ site.theme }}";
-* { 
-  font-family: Helvetica; 
+.page-header {
+    padding: 2rem 2rem;
+}
+
+@media print {
+    .page-header {
+        padding: 1rem;
+        background: none;
+        color: black;
+        border-bottom: 2px solid #eee;
+    }
+    .project-name, .project-tagline {
+        color: black !important;
+    }
+    .main-content {
+        padding: 1rem 0;
+        max-width: 100%;
+        margin: 0;
+    }
 }
 
 a:hover, a:focus{
